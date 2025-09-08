@@ -5,7 +5,7 @@ Computer Science student at LSU (graduating 2027) with a concentration in Softwa
 ---
 
 ## Links  
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/benjamin-gutowski-2b2575383/)
 - [LeetCode](https://leetcode.com/u/benjamindguto/) (active)
 
 ## Skills  
