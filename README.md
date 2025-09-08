@@ -6,7 +6,7 @@ Computer Science student at LSU (graduating 2027) with a concentration in Softwa
 
 ## Links  
 - [LinkedIn]()
-- [LeetCode](https://leetcode.com/u/benjamindguto/) (Psst... I'm pretty active on here)
+- [LeetCode](https://leetcode.com/u/benjamindguto/) (active)
 
 ## Skills  
 **Languages**: C | Java | Python | JavaScript | HTML/CSS  
