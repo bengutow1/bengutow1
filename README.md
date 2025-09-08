@@ -1,6 +1,6 @@
 # Hey, I'm Ben :v:  
 
-Computer Science student at LSU (graduating 2027) with a concentration in Software Development, passionate about backend & game development.
+Computer Science student at LSU (graduating 2027) with a concentration in Software Development, passionate about Backend & Game Development.
 
 ---
 
