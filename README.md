@@ -14,6 +14,11 @@ Computer Science student at LSU (graduating 2027) with a concentration in Softwa
 
 ## Featured Projects  
 
+### [CSC4402 Database Application Interface Group Project](https://github.com/bengutow1/csc4402-database-project)
+- A Python program that provides full CRUD (Create, Read, Update, Delete) functionality for several tables within a database modeled around the company BASF.
+- Prompts the user for MySQL credentials (to connect to the user's MySQL Server) and login credentials (for varying database permission levels).
+- Provides a command line interface for the user to interact with the program.
+
 ### [CSC3102 Social Network Group Project](https://github.com/bengutow1/csc3102-fall2024-socialnetwork)  
 - A Java program that simulates a social network between students given that each student has five other students in their social network and a designated "introduction time" to get to know students in their network.
 - Uses Djikstra's Algorithm to find the quickest (least amount of days) path from one student to another.
