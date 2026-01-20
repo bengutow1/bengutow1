@@ -5,8 +5,8 @@ Computer Science student at LSU (graduating 2027) with a concentration in Softwa
 ---
 
 ## Links  
-- [LinkedIn](https://www.linkedin.com/in/benjamin-gutowski-2b2575383/) (primarily using C)
-- [LeetCode](https://leetcode.com/u/benjamindguto/)
+- [LinkedIn](https://www.linkedin.com/in/benjamin-gutowski-2b2575383/)
+- [LeetCode](https://leetcode.com/u/benjamindguto/) (primarily using C)
 
 ## Skills  
 **Languages**: C | C++ | Java | Python | JavaScript | HTML/CSS | SQL | Ruby | OCaml | Rust | GDScript  
